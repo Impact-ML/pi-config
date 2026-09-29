@@ -141,3 +141,10 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Extra for pi
+auth.json
+sessions/
+*.jsonl
+hosts.yml
+.env
