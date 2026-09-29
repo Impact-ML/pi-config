@@ -1,0 +1,10 @@
+{
+  "name": "pi-config",
+  "private": true,
+  "version": "0.1.0",
+  "pi": {
+    "extensions": ["./extensions"],
+    "skills": ["./skills"],
+    "prompts": ["./prompts"]
+  }
+}
